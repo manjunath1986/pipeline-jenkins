@@ -47,6 +47,6 @@ fi
 
 #-Completion
 echo "--------------------------------------------------------"
-echo "View App deployed here: http://server-ip:8180/sample.txt"
+echo "View App deployed here: http://54.87.75.234:8180/sample.txt"
 echo "--------------------------------------------------------"
 ```
